@@ -25,6 +25,7 @@ function App() {
 
   return (
     <div className="App">
+      <h1>Full Name Display</h1>
       <form onSubmit={handleSubmit}>
         <div className="input-container">
           <label htmlFor="firstName">First Name: </label>
